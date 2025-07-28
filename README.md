@@ -40,5 +40,10 @@ The dataset contains over 580,000 observations of forested areas with 54 feature
 - Accuracy bar plot
 
 All are auto-generated with clean plots and saved under `assets/plots/` (optional step).
+## 🔗 Run on Google Colab
+
+Click below to view and run the full project with interactive output:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G8gEftFmdz-idCSSbOD98Y8WFea3uh4O?usp=sharing)
 
 ---
