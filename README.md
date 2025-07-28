@@ -42,10 +42,3 @@ The dataset contains over 580,000 observations of forested areas with 54 feature
 All are auto-generated with clean plots and saved under `assets/plots/` (optional step).
 
 ---
-
-## 💡 How to Run
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/forest-cover-classifier.git
-   cd forest-cover-classifier
